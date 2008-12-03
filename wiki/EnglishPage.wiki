@@ -4,7 +4,7 @@
 
 == Introduction ==
 
-An Adblock Plus filters list which is supplemental to EasyList? to help block advertisements on websites from Vietnam. Use the link "AdBlock? Plus - Bộ lọc Việt Nam" on the right to subscribe to this list.
+An Adblock Plus filters list which is supplemental to !EasyList to help block advertisements on websites from Vietnam. Use the link "Adblock Plus - Bộ lọc Việt Nam" on the right to subscribe to this list.
 
 *NOTE: This is just a supplemental list to EasyList, you should use it with EasyList to achieve best results.*
 
