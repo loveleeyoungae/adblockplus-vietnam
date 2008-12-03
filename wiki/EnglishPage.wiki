@@ -1,5 +1,7 @@
 = Adblock Plus filters list for Vietnam =
 
+|| Ngôn ngữ: [http://code.google.com/p/adblockplus-vietnam/ Tiếng Việt]|*English* ||
+
 == Introduction ==
 
 An Adblock Plus filters list which is supplemental to EasyList? to help block advertisements on websites from Vietnam. Use the link "AdBlock? Plus - Bộ lọc Việt Nam" on the right to subscribe to this list.
