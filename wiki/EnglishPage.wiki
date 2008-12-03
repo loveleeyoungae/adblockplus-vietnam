@@ -1,6 +1,6 @@
-= Adblock Plus filters list for Vietnam =
-
 || Ngôn ngữ: [http://code.google.com/p/adblockplus-vietnam/ Tiếng Việt]|*English* ||
+
+= Adblock Plus filters list for Vietnam =
 
 == Introduction ==
 
