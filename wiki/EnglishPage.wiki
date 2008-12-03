@@ -14,7 +14,8 @@ An Adblock Plus filters list which is supplemental to EasyList? to help block ad
 
 `abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=AdBlock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
 
-CONGRATULATIONS! No more annoying advertisements!
+*CONGRATULATIONS*! No more annoying advertisements!
+You may want to check the filters on some Vietnam websites: [http://www.vietnamnet.vn VietnamNet], [http://www.tuoitre.com.vn TuoiTre], [http://www.thanhnien.com.vn ThanhNien]... or [http://www.thanhtra.com.vn Thanh Tra Chính Phủ], [http://www.24h.com.vn 24H], [http://www.vnexpress.net VNExpress], [http://www.dantri.com.vn DanTri] :D
 
 .
 
