@@ -8,7 +8,7 @@ An Adblock Plus filters list which is supplemental to EasyList? to help block ad
 
 
 == Quick Guide ==
-*Method 1*: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. OK.
+*Method 1*: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. Click OK.
 
 *Method 2*: Just copy this code and paste it into your browser. Then click OK.
 
