@@ -1,14 +1,26 @@
 #labels Featured
-= Introduction =
+= Adblock Plus filters list for Vietnam =
+
+== Introduction ==
 
 An Adblock Plus filters list which is supplemental to EasyList? to help block advertisements on websites from Vietnam. Use the link "AdBlock? Plus - Bộ lọc Việt Nam" on the right to subscribe to this list.
 
 
-= Quick Guide =
-Method 1: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. OK.
+== Quick Guide ==
+*Method 1*: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. OK.
 
-Method 2: Copy this code and paste it into your browser. Then click OK.
+*Method 2*: Just copy this code and paste it into your browser. Then click OK.
 
-'abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=AdBlock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam'
+`abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=AdBlock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
 
 CONGRATULATIONS! No more annoying advertisements!
+
+.
+
+*NOTE: This is just a supplemental list to EasyList, you should use it with EasyList to achieve best results.*
+
+.
+
+== Support ==
+Contact me at:
+NGUYỄN Mạnh Hùng <loveleeyoungae[ABCDEF]yahoo.com>
