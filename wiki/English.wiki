@@ -9,6 +9,6 @@ Method 1: Go to Adblock Plus Options > Filters > Add filter subscription... > Ad
 
 Method 2: Copy this code and paste it into your browser. Then click OK.
 
-abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=AdBlock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam
+'abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=AdBlock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam'
 
 CONGRATULATIONS! No more annoying advertisements!
