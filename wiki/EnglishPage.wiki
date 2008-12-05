@@ -1,3 +1,4 @@
+#labels Featured
 || Ngôn ngữ: [http://code.google.com/p/adblockplus-vietnam/ Tiếng Việt] | *English* ||
 
 = Adblock Plus filters list for Vietnam =
