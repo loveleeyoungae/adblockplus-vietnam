@@ -8,6 +8,15 @@ An Adblock Plus filters list which is supplemental to !EasyList to help block ad
 
 *NOTE: This is just a supplemental list to EasyList, you should use it with EasyList to achieve best results.*
 
+==More Info==
+  * *Adblock Plus*: an extension for Firefox, helps blocking advertisements on websites. *Moreover, the blocked ads are not downloaded, and that makes pages load faster for dial-up users in Vietnam.* Download at https://addons.mozilla.org/en-US/firefox/addon/1865
+
+  * *!EasyList*: a global filters list for Adblock Plus. *Adblock _Pro_ of IE uses a ripped version of this filters list.* [http://adblockplus.org/forum/viewtopic.php?t=3062&sid=84f60f42e73c6fda49f512f138558a8a 1] If you haven't subsribed to !EasyList yet, just get into here http://easylist.adblockplus.org, and click "Add to ABP".
+
+  * You only need to subscribe to a list once, then Adblock Plus will auto update later. You won't have to manually add your own filters.
+
+  * If there are false positives, or if you have filter suggestions, just notify us. When we update the list, not only you but everyone will benefit from it :)
+
 == Quick Guide ==
 
 *Method 1*: Just copy this code and paste it into your browser. Then click OK.
