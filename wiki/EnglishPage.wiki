@@ -1,7 +1,7 @@
 #labels Featured
 || Ngôn ngữ: [http://code.google.com/p/adblockplus-vietnam/ Tiếng Việt] | *English* ||
 
-= Adblock Plus filters list for Vietnam =
+= Adblock Plus - Vietnam List =
 *Ads were yesterday... in Vietnam!* An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement to help block advertisements on websites from Vietnam.
 
 *NOTE: This is just a supplemental list to !EasyList, you should use it with !EasyList to achieve best results.*
