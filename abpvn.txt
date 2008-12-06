@@ -79,6 +79,7 @@ bacsi.com/data/*banner
 bacsi.com/data/flash/
 batdongsan.com.vn/banners/
 bikervietnam.com/*/adv/
+bkav.com.vn
 bkav.com.vn/Uploads%5C
 bongdaso.*banner
 btv.org.*qc
