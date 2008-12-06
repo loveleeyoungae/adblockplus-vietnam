@@ -87,6 +87,7 @@ buy-sell.vn/flash/
 cakhucvietnam.com/Upload/Logo/
 conghung.*/weblink/
 congtroi.com/*raovat-
+dantri.com.vn/App_Themes/*demo-$image
 ddth.com/bn/
 dienthoai.com.vn/attachments/
 digipower.*/ddth/
