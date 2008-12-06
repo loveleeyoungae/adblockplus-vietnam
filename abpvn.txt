@@ -22,6 +22,8 @@
 .com/upload/adv/
 _AdObjects.js
 Advertising.js
+rotatorDOM.js|
+vatgia.js|
 /ad_banner.js
 /admedia/*
 /adFlash.
@@ -163,6 +165,7 @@ zing.vn/*/SearchSimple/
 #DIV(id*=divStayTop)
 #div(id*=layout_adv)
 #div(id*=mainHomeAdv)
+#div(id*=t)(id$=_banner)
 5giay.vn#td(width=200)(valign=top)
 5giay.vn##div[id="navmod01_menu"]+center>table
 60s.com.vn#td(height=120)(align=center)
@@ -187,6 +190,11 @@ phununet.com#div(style*=padding-top: 240px;)
 thanhnien.com.vn#DIV(class*=-Container)
 timnhanh.com#DIV(id=banner_728x90_01)
 timnhanh.com#div(class=groupBanner)
+tin247.com#DIV(class=detail_news_product_vg)
+tin247.com##div[style*="width: 140px"]>:first-child+div
+tin247.com##div[style*="width: 140px"]>:first-child+*+*+*+*+*+*+div
+tin247.com##div[style*="width: 140px"]>:first-child+*+*+*+*+*+*+*+*+*+div
+tin247.com#DIV(class=web_raovat_size)
 tinhte.com##td[bgcolor="#F8F8F8"]>table
 truongton.net#table(class*=partner_table)
 vnexpress.net#DIV(class=fl)(style=width: 175px; height: 240px;)
