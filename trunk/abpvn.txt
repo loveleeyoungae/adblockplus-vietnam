@@ -24,6 +24,10 @@ _AdObjects.js
 Advertising.js
 rotatorDOM.js|
 vatgia.js|
+tamthat.gif
+hoctienganh.gif
+vatgia.gif
+finalstyle.gif
 /ad_banner.js
 /admedia/*
 /adFlash.
