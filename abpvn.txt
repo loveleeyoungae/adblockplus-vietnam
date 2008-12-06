@@ -16,6 +16,7 @@
 .vn/*/info/ad/
 .vn/*upload/ads
 .vn/adv/
+.vn/anhqc/
 .vn/common/*/ads
 .vn/Image.aspx/image=
 .vn/Upload*/adv
