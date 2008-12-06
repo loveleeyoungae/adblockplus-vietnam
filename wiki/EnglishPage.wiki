@@ -19,7 +19,7 @@
 
 *Method 1*: Just copy this code and paste it into your browser. Then click OK.
 
-`abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/files/abpvn.txt&title=Adblock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
+`abp://subscribe/?location=http://code.google.com/p/adblockplus-vietnam/source/browse/trunk/abpvn.txt&title=Adblock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
 
 *Method 2*: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. Click OK.
 
