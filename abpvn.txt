@@ -188,6 +188,7 @@ zing.vn/*/SearchSimple/
 60s.com.vn#td(height=120)(align=center)
 60s.com.vn#div(class=logospace)
 baongay.com#div(id=header_menu)
+bkav.com.vn#HTML
 bongda.com.vn#div(style*=width: 580px;)(style*=clear: both;)
 dantri.com.vn#td(height=64)(valign=top)(align=center)
 ddth.com#td(width=130)(bgcolor=F5F5F5)
