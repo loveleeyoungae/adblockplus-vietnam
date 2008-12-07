@@ -3,7 +3,7 @@
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
 ! 07/12/2008 15:00
-!Expires: 12h
+!Expires: 1
 .com/adv.js
 .com/ImgQC/
 .com.vn/*adv
@@ -110,6 +110,7 @@ gate.vn/adsvc/
 hieuhoc.com/Images/Events/
 hoidap.vn/truongton.js
 htv.com.*/tintuc/2005/*.gif
+ichinews.*/ad/
 igame.vn/bn/
 innity-asia.
 javavietnam.*/mvnad
@@ -123,6 +124,7 @@ neu.edu.*/icon_
 onthi.com/images/banner/*.gif
 otosaigon.com/*/showbanners.js
 photo.vn/upload*logo
+quantri.com.vn/*/affiliates/
 rongbay.*/widget
 rongbay.com/banner/
 sggp.org*/Others/
