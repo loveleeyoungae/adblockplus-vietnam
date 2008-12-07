@@ -124,7 +124,7 @@ photo.vn/upload*logo
 rongbay.*/widget
 rongbay.com/banner/
 sggp.org*/Others/
-saigonnews.vn/uploadfiles/
+saigon*.vn/uploadfiles/
 sannhac.com/*/mkt/
 socbay.com/sb_flash/*.html
 socnhi.com/*/banner/
