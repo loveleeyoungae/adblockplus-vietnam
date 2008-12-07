@@ -172,6 +172,7 @@ vuvu.com.vn/services/themes/1/
 woim.net/*/lienket/
 xaluan.com*banner
 xe360.vn/images/banners/
+yeah1.com/*/banner/
 yeuamnhac.*/adv/
 zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
