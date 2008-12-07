@@ -68,8 +68,10 @@ eblogtemplates/adstheme/
 /quangcao
 /quan-ly-anh-quang-cao
 /show_ad.js
-/uploads/advs/*
-/uploads/adv/*
+!/uploads/*advs/
+!/uploads/*adv/
+/uploads*adv
+/upload_adv/*
 /VAImages/*
 /videoqc/*
 /WaitForAd/*
