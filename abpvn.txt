@@ -95,6 +95,8 @@ conghung.*/weblink/
 congtroi.com/*raovat-
 dantri.com.vn/App_Themes/*demo-$image
 ddth.com/bn/
+dethi.com/anh/
+dethi.com/lienket/
 dienthoai.com.vn/attachments/
 digipower.*/ddth/
 docbao.vn*/Ad/
