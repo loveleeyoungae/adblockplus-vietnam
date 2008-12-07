@@ -2,7 +2,7 @@
 ! Bộ lọc Adblock Plus cho Việt Nam. Sử dụng với EasyList
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
-! 06/12/2008 02:00
+! 07/12/2008 15:00
 !Expires: 12h
 .com/adv.js
 .com/ImgQC/
@@ -142,6 +142,8 @@ tin247.com/*_banner
 tin247.com/*/truongton.swf
 tinhte.com*banner
 tip.vn/Ad/
+toquoc.into.vn/*_ad
+trangtinvietnam.com/upload*logo
 trochoiviet.*/ad/
 truongton.net/forum/clip.swf
 up.coo.vn/
@@ -159,6 +161,7 @@ vinabull.*/images/logo/*
 vnexpress.*AdWord
 vnexpress.*/Val.js
 vnnavi.com*/logo
+vnphoto.net/*/fullsize/*.gif
 vtc.vn/Images$match-case
 vtc.vn/newsimage/adv/
 vtv.vn/HTML*adv
@@ -168,7 +171,7 @@ woim.net/*/lienket/
 xaluan.com*banner
 xe360.vn/images/banners/
 yeuamnhac.*/adv/
-zda.vn/data/gallery/fullsize/
+zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@diadiem.com/*/Advertisementdd.js
