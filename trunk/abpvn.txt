@@ -43,6 +43,7 @@ finalstyle.gif
 /banner_file/*
 /banner.js|
 /banners.js|
+/bntraodoi/*
 /data/adv/*
 eblogtemplates/adstheme/
 /ej_banners/*
