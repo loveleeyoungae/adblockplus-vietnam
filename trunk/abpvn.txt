@@ -184,6 +184,7 @@ zing.vn/*/SearchSimple/
 #div(id*=boxpopup)
 #DIV(id^=divAd)(id$=t)
 #DIV(id*=divStayTop)
+#div(id=fixbanner)
 #div(id*=layout_adv)
 #div(id*=mainHomeAdv)
 #div(id*=t)(id$=_banner)
