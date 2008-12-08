@@ -10,6 +10,7 @@ how_to_laptop.swf
 /3rdparty/jQuery/*/superfish.js
 /vinbuy/skins/default/images*.gif$image,background
 /vinbuy/*/Frame/Box
+/vinbuy/skins/default/css/*
 /VinbuyTypicalProduct/style.css
 carousel/j*.js$script
 210.245.80.*/upload/in/product/small/*product_$image
