@@ -104,6 +104,7 @@ enbac.com/uploads/
 enbac.com/*rongbay
 ee210/Phamen/Banner*
 elive.vn/images/
+eva.vn/js/eva.js
 gamevui.*/_QC/
 gate.vn/adsvc/
 hieuhoc.com/Images/Events/
