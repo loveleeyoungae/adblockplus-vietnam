@@ -30,5 +30,4 @@ You may want to check the filters on some Vietnam websites: [http://www.vietnamn
 .
 
 == Support ==
-Discussion group:
-[http://groups.google.com.vn/group/adblockplus-vietnam/]
+Email: adblockplus-vietnam@googlegroups.com
