@@ -68,8 +68,6 @@ eblogtemplates/adstheme/
 /quangcao
 /quan-ly-anh-quang-cao
 /show_ad.js
-!/uploads/*advs/
-!/uploads/*adv/
 /uploads*adv
 /upload_adv/*
 /VAImages/*
@@ -214,9 +212,7 @@ thanhnien.com.vn#DIV(class*=-Container)
 timnhanh.com#DIV(id=banner_728x90_01)
 timnhanh.com#div(class=groupBanner)
 tin247.com#DIV(class=detail_news_product_vg)
-tin247.com##div[style*="width: 140px"]>:first-child+div
-tin247.com##div[style*="width: 140px"]>:first-child+*+*+*+*+*+*+div
-tin247.com##div[style*="width: 140px"]>:first-child+*+*+*+*+*+*+*+*+*+div
+tin247.com#div(class=raovat_vip)
 tin247.com#DIV(class=web_raovat_size)
 tinhte.com##td[bgcolor="#F8F8F8"]>table
 truongton.net#table(class*=partner_table)
