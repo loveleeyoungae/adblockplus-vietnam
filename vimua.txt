@@ -1,0 +1,22 @@
+[Adblock Plus 0.7.1]
+! Expires: 1h
+trangchu.swf
+sangtao2.swf
+051208/to.swf
+how_to_laptop.swf
+/vinbuy/avatars/avatar_*.jpg
+/3rdparty/jQuery/plugins/tooltip/main.js
+/3rdparty/jQuery/*/autosuggest/*
+/3rdparty/jQuery/*/chat/*
+/3rdparty/jQuery/*/superfish/*
+vimua.com/portals/vinbuy/skins/default/images$image
+/vinbuy/*/Frame/Box
+carousel/j*.js$script
+210.245.80.*/upload/in/product/small/*product_$image
+210.245.80.*/upload/in/product/medium/*product_$image
+210.245.80.*/stores/product/thumbnail/$image
+#div(style*=border-style: none solid solid;)(style*=height: 86px;)
+#div(class=pd-img)
+#div(class=listProductPromotion)
+#div(class=list-customer-content)
+#table(class=typical-product)
