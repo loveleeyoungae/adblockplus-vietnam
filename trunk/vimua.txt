@@ -1,5 +1,5 @@
 [Adblock Plus 0.7.1]
-! Expires: 1h
+! Expires: 1
 trangchu.swf
 sangtao2.swf
 051208/to.swf
