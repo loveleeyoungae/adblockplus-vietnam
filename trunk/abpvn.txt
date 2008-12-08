@@ -1,4 +1,4 @@
-[Adblock Plus 0.7.1]
+﻿[Adblock Plus 0.7.1]
 ! Bộ lọc Adblock Plus cho Việt Nam. Sử dụng với EasyList
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
@@ -209,6 +209,7 @@ phununet.com#div(style*=padding-top: 300px;)
 phununet.com#div(style*=height: 250px;)
 phununet.com#div(style*=height: 300px;)
 phununet.com#div(style*=padding-top: 240px;)
+softvnn.com##td[class="alt2"][width="175"]:not([style*="border-width: 0px;"])
 thanhnien.com.vn#DIV(class*=-Container)
 timnhanh.com#DIV(id=banner_728x90_01)
 timnhanh.com#div(class=groupBanner)
