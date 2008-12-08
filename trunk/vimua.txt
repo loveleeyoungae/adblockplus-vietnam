@@ -2,7 +2,6 @@
 ! Expires: 1
 trangchu.swf
 sangtao2.swf
-051208/to.swf
 how_to_laptop.swf
 /vinbuy/avatars/avatar_*.jpg
 /3rdparty/jQuery/plugins/tooltip/main.js
