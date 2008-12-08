@@ -9,7 +9,7 @@ how_to_laptop.swf
 /3rdparty/jQuery/*/autosuggest/*
 /3rdparty/jQuery/*/chat/*
 /3rdparty/jQuery/*/superfish/*
-vimua.com/portals/vinbuy/skins/default/images$image
+/vinbuy/skins/default/images$image,background
 /vinbuy/*/Frame/Box
 carousel/j*.js$script
 210.245.80.*/upload/in/product/small/*product_$image
