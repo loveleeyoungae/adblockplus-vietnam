@@ -42,6 +42,7 @@ finalstyle.gif
 /aj/slot.jsp?
 /AjaxAdv.aspx
 /banner_file/*
+/bannerfiles/*
 /banner.js|
 /banners.js|
 /bntraodoi/*
