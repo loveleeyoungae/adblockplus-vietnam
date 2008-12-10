@@ -156,6 +156,7 @@ vatgia.com/images/$object
 vietboom.com/flash/
 vietfriendly.*/logo
 vietgiaitri.*/ad/
+vietguys.biz/images/resources-$image
 vietnamwebsite.*/logo
 vietphotoshop.com/ad/
 vietyo.com/yomedia/
