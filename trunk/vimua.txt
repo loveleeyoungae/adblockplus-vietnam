@@ -8,7 +8,8 @@ how_to_laptop.swf
 /3rdparty/jQuery/*/autosuggest/*
 /3rdparty/jQuery/*/chat/*
 /3rdparty/jQuery/*/superfish.js
-/vinbuy/skins/default/images$image,background
+/vinbuy/skins/default/images*.gif$image,background
+/vinbuy/skins/default/images*.jpg$image,background
 /vinbuy/*/Frame/Box
 /vinbuy/skins/default/css/*
 /VinbuyTypicalProduct/style.css
