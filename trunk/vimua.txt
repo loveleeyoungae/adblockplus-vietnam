@@ -21,3 +21,4 @@ carousel/j*.js$script
 #div(class=listProductPromotion)
 #div(class=list-customer-content)
 #table(class=typical-product)
+vimua.com#ul(id=sample-menu-4)
