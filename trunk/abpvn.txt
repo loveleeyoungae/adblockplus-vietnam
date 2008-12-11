@@ -19,6 +19,7 @@
 .vn/anhqc/
 .vn/common/*/ads
 .vn/Image.aspx/image=
+.vn/images/banner*.swf
 .vn/Upload*/adv
 .com/upload/adv/
 _AdObjects.js
