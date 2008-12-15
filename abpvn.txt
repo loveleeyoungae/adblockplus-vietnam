@@ -94,7 +94,6 @@ buy-sell.vn/flash/
 cakhucvietnam.com/Upload/Logo/
 conghung.*/weblink/
 congtroi.com/*raovat-
-dantri.com.vn/App_Themes/*/Images/$match-case
 ddth.com/bn/
 dethi.com/anh/
 dethi.com/lienket/
