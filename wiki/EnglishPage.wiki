@@ -21,7 +21,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 
 [http://adblockplus.org/en/subscriptions http://upnhanh.com/userimages/images/UpNhAnHdotC0M2008121534951zjk1njhjog48723_1.jpeg]
 
-*Method 2* (Only when you already subscribed to !EasyList and !EasyElement): Just copy this code and paste it into your browser. Then click OK.
+*Method 2* *<font color='red'>(Only when you already subscribed to !EasyList and !EasyElement)</font>*: Just copy this code and paste it into your browser. Then click OK.
 
 `abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/svn/trunk/abpvn.txt&title=Adblock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
 
