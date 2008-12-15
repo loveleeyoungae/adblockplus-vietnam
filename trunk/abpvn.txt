@@ -64,7 +64,7 @@ eblogtemplates/adstheme/
 /Logo_Quangcao/*
 /logoquangcao/*
 /MagicWords.js
-/mBanner.js
+!/mBanner.js
 //qc(/|ao)/
 /quancao
 /quangcao
@@ -181,6 +181,7 @@ yeuamnhac.*/adv/
 zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
+@@24h.com.vn/*.flv
 @@diadiem.com/*/Advertisementdd.js
 @@tuoitre.com.vn/*/banner/
 @@vietteltelecom.vn/common
