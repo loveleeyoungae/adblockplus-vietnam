@@ -17,12 +17,13 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 
 == Quick Guide ==
 
-*Method 1*: Just copy this code and paste it into your browser. Then click OK.
+*Method 1*: Click on this image to go to Adblock Plus's subscriptions page, then click on the link as shown below:
+
+[http://adblockplus.org/en/subscriptions http://upnhanh.com/userimages/images/UpNhAnHdotC0M2008121534951zjk1njhjog48723_1.jpeg]
+
+*Method 2* (Only when you already subscribed to !EasyList and !EasyElement): Just copy this code and paste it into your browser. Then click OK.
 
 `abp://subscribe/?location=http://adblockplus-vietnam.googlecode.com/svn/trunk/abpvn.txt&title=Adblock%20Plus%20%2D%20Bộ%20lọc%20Việt%20Nam`
-
-*Method 2*: Go to Adblock Plus Options > Filters > Add filter subscription... > Add a different subscription.  Then paste the url of "Adblock Plus - Bộ lọc Việt Nam" into the address box. Click OK.
-
 
 *CONGRATULATIONS*! No more annoying advertisements!
 You may want to check the filters on some Vietnam websites: [http://www.vietnamnet.vn VietnamNet], [http://www.tuoitre.com.vn TuoiTre], [http://www.thanhnien.com.vn ThanhNien]... or [http://www.thanhtra.com.vn Thanh Tra Chính Phủ], [http://www.24h.com.vn 24H], [http://www.vnexpress.net VNExpress], [http://www.dantri.com.vn DanTri] :D
