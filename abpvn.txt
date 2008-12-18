@@ -24,7 +24,7 @@
 .com/upload/adv/
 .adserver.
 .agentcenters.
-.adcde.
+.adcde.com
 .tracking101.
 _AdObjects.js
 Advertising.js
@@ -96,6 +96,7 @@ bongdaso.*banner
 btv.org.*qc
 buy-sell.vn/flash/
 cakhucvietnam.com/Upload/Logo/
+cinebox212.com.vn/flash/$object
 conghung.*/weblink/
 congtroi.com/*raovat-
 ddth.com/bn/
@@ -203,7 +204,6 @@ zing.vn/*/SearchSimple/
 baongay.com#div(id=header_menu)
 bkav.com.vn#HTML
 bongda.com.vn#div(style*=width: 580px;)(style*=clear: both;)
-cinebox212.com.vn/flash/$object
 dantri.com.vn#td(height=64)(valign=top)(align=center)
 ddth.com#td(width=130)(bgcolor=F5F5F5)
 diendantinhoc.vn#td(width=160)(valign=top)
