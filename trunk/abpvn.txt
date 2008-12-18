@@ -22,6 +22,7 @@
 .vn/images/banner*.swf
 .vn/Upload*/adv
 .com/upload/adv/
+.adserver.
 _AdObjects.js
 Advertising.js
 rotatorDOM.js|
