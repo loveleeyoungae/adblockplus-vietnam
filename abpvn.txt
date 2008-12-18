@@ -79,6 +79,7 @@ eblogtemplates/adstheme/
 /VAImages/*
 /videoqc/*
 /WaitForAd/*
+http://tq1.srv.
 http://qctn.
 123mua.com*/res/v2/img/
 5giay.vn/igo/$image,object
