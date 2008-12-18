@@ -23,6 +23,9 @@
 .vn/Upload*/adv
 .com/upload/adv/
 .adserver.
+.agentcenters.
+.adcde.
+.tracking101.
 _AdObjects.js
 Advertising.js
 rotatorDOM.js|
