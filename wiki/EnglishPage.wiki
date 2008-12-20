@@ -9,7 +9,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 ==More Info==
   * *Adblock Plus*: an extension for Firefox, helps blocking advertisements on websites. *Moreover, the blocked ads are not downloaded, and that makes pages load faster for dial-up users in Vietnam.* Download at https://addons.mozilla.org/en-US/firefox/addon/1865
 
-  * *!EasyList, !EasyElement*: global filters lists for Adblock Plus. *Adblock _Pro_ for IE uses a ripped version of these filters lists* [[http://adblockplus.org/forum/viewtopic.php?t=3062&sid=84f60f42e73c6fda49f512f138558a8a 1]]. If you haven't subsribed to the Easy lists yet, just get into here http://easylist.adblockplus.org, and add them.
+  * *!EasyList, !EasyElement*: global filters lists for Adblock Plus. *Adblock Pro for Internet Explorer uses a ripped version of these filters lists* [[http://adblockplus.org/forum/viewtopic.php?t=3062&sid=84f60f42e73c6fda49f512f138558a8a 1]]. If you haven't subsribed to the Easy lists yet, just get into here http://easylist.adblockplus.org, and add them.
 
   * You only need to subscribe to a list once, then Adblock Plus will auto update it when there are new changes later. You won't have to manually add your own filters.
 
