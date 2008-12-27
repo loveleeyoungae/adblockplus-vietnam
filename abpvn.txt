@@ -144,6 +144,7 @@ socnhi.com/*/banner/
 softvnn.com/images/$image,object
 thanhnien.*/Media/Pictures/
 thegioioto.com.vn/Autos/Images/home/
+thodia.vn/FlashFiles/
 thongtincongnghe.com/clients/exchange/hosted/
 thongtinnhatban.net/ac/
 thongtinlaptop.com/img/
