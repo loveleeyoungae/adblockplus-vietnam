@@ -81,6 +81,8 @@ eblogtemplates/adstheme/
 /WaitForAd/*
 http://tq1.srv.
 http://qctn.
+!ola.vn
+http://222.255.121.164/config.xml
 123mua.com*/res/v2/img/
 5giay.vn/igo/$image,object
 7giay.com/
