@@ -186,6 +186,7 @@ vtc.vn/newsimage/adv/
 vtv.vn/HTML*adv
 vuvu.com.vn/*/ma1
 vuvu.com.vn/services/themes/1/
+vuvu.com.vn/services/taitrothongoc/
 woim.net/*/lienket/
 xaluan.com*banner
 xe360.vn/images/banners/
