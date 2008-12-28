@@ -76,6 +76,7 @@ eblogtemplates/adstheme/
 /show_ad.js
 /uploads*adv
 /upload_adv/*
+/upload/banner
 /VAImages/*
 /videoqc/*
 /WaitForAd/*
