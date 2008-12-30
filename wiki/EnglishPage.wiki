@@ -19,7 +19,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 
 *Method 1*: Click on this image to go to Adblock Plus's subscriptions page, then click on the link as shown below:
 
-[http://adblockplus.org/en/subscriptions http://upnhanh.com/userimages/images/UpNhAnHdotC0M2008121534951zjk1njhjog48723_1.jpeg]
+[http://adblockplus.org/en/subscriptions http://img132.imageshack.us/img132/9864/abpvnvj0.jpg]
 
 *Method 2* *<font color='red'>(Only when you already subscribed to !EasyList and !EasyElement)</font>*: Just copy this code and paste it into your browser. Then click OK.
 
