@@ -170,6 +170,7 @@ up.coo.vn/
 vaip.org.vn/ad/
 vangvn.com/data/banner/
 vatgia.com/images/$object
+vatgia.com/banners/
 vietboom.com/flash/
 vietfriendly.*/logo
 vietgiaitri.*/ad/
