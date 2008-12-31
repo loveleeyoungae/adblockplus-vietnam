@@ -56,6 +56,7 @@ eblogtemplates/adstheme/
 /ej_banners/*
 /ejbanners/*
 /FlashAd.
+//images/banner/*
 /ima_adv/*
 /images_ad/*
 /images_adv
