@@ -35,7 +35,6 @@ hoctienganh.gif
 vatgia.gif
 finalstyle.gif
 galaxy.swf
-glx.swf
 /background_cs.jpg
 /ad_banner.js
 /admedia/*
