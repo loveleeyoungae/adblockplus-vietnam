@@ -67,6 +67,7 @@ eblogtemplates/adstheme/
 /images/adv/*
 /images/photo/*_vn.$object,image
 /Img_Quangcao/*
+/index_files/*$script,object
 /interads/*
 /LogoDownload.
 /logokhachhang/*
@@ -175,7 +176,6 @@ trangtinvietnam.com/upload*logo
 trochoiviet.*/ad/
 truongton.net/forum/clip.swf
 up.coo.vn/
-utbinh.com/index_files/$script,object
 vaip.org.vn/ad/
 vangvn.com/data/banner/
 vatgia.com/images/$object
