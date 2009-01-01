@@ -70,6 +70,7 @@ eblogtemplates/adstheme/
 /logoquangcao/*
 /MagicWords.js
 !/mBanner.js
+/media/banner/*
 //qc(/|ao)/
 /quancao
 /quangcao
