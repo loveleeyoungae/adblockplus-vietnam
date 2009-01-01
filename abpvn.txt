@@ -71,6 +71,7 @@ eblogtemplates/adstheme/
 /MagicWords.js
 !/mBanner.js
 /media/banner/*
+/paidbanner/*
 //qc(/|ao)/
 /quancao
 /quangcao
