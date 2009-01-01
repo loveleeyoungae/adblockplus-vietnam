@@ -69,6 +69,8 @@ eblogtemplates/adstheme/
 /Img_Quangcao/*
 /index_files/*$script,object
 /interads/*
+/Logo%20nha%20tai%20tro/*
+/Logo%20quang%20cao/*
 /LogoDownload.
 /logokhachhang/*
 /Logo_Quangcao/*
