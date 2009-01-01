@@ -34,6 +34,8 @@ tamthat.gif
 hoctienganh.gif
 vatgia.gif
 finalstyle.gif
+galaxy.swf
+glx.swf
 /background_cs.jpg
 /ad_banner.js
 /admedia/*
@@ -55,7 +57,9 @@ finalstyle.gif
 eblogtemplates/adstheme/
 /ej_banners/*
 /ejbanners/*
+/FA-Ads/*
 /FlashAd.
+/forum/banner/*
 //images/banner/*
 /ima_adv/*
 /images_ad/*
@@ -127,10 +131,12 @@ hoidap.vn/truongton.js
 htv.com.*/tintuc/2005/*.gif
 ichinews.*/ad/
 igame.vn/bn/
+img.ad.zing.vn/
 innity-asia.
 javavietnam.*/mvnad
 lienket247.com/banner/
 manutd.com.vn/attachments/
+mariecurie.biz/link_scroll.html
 marofin.com/banners/
 muabanraovat.*/flash
 muaban.net/mn_ad/
@@ -196,7 +202,9 @@ woim.net/*/lienket/
 xaluan.com*banner
 xe360.vn/images/banners/
 yeah1.com/*/banner/
+yeuamnhac.*/adv/
 yeuamnhac.*/yan/fullsize/
+yeuamnhac.com/*/searchbar728.swf
 zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
