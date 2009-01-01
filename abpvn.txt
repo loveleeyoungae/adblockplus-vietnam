@@ -194,7 +194,7 @@ woim.net/*/lienket/
 xaluan.com*banner
 xe360.vn/images/banners/
 yeah1.com/*/banner/
-yeuamnhac.*/adv/
+yeuamnhac.*/yan/fullsize/
 zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
