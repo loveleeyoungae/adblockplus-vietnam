@@ -175,6 +175,7 @@ trangtinvietnam.com/upload*logo
 trochoiviet.*/ad/
 truongton.net/forum/clip.swf
 up.coo.vn/
+utbinh.com/index_files/$script,object
 vaip.org.vn/ad/
 vangvn.com/data/banner/
 vatgia.com/images/$object
