@@ -22,10 +22,7 @@
 .vn/images/banner*.swf
 .vn/Upload*/adv
 .com/upload/adv/
-.adserver.
-.agentcenters.
 .adcde.com
-.tracking101.
 _AdObjects.js
 Advertising.js
 rotatorDOM.js|
@@ -108,7 +105,6 @@ bacsi.com/data/flash/
 batdongsan.com.vn/banners/
 bikervietnam.com/*/adv/
 bkav.com.vn
-bkav.com.vn/Uploads%5C
 bongdaso.*banner
 btv.org.*qc
 buy-sell.vn/flash/
