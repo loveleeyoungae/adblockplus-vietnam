@@ -171,7 +171,6 @@ tienganh.com.vn/anh/
 timsanpham.com/images/logo/
 tin247.com/*_banner
 tin247.com/flash/*.swf
-tinhte.com*banner
 tip.vn/Ad/
 top1.vn/*_160x350.swf
 toquoc.into.vn/*_ad
