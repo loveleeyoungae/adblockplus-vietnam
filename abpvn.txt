@@ -61,6 +61,7 @@ eblogtemplates/adstheme/
 /forum/banner/*
 //images/banner/*
 /ima_adv/*
+/imagehosting/*
 /images_ad/*
 /images_adv
 /images/adv/*
@@ -83,6 +84,7 @@ eblogtemplates/adstheme/
 /quangcao
 /quan-ly-anh-quang-cao
 /show_ad.js
+/TTData/Data/*
 /uploads*adv
 /upload_adv/*
 /upload/banner
