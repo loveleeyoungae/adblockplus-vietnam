@@ -1,4 +1,4 @@
-﻿[Adblock Plus 0.7.1]
+﻿[Adblock Plus 0.7.5]
 ! Bộ lọc Adblock Plus cho Việt Nam. Sử dụng với EasyList
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
