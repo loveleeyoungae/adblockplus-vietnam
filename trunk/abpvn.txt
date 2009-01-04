@@ -228,6 +228,7 @@ bongda.com.vn#div(style*=width: 580px;)(style*=clear: both;)
 dantri.com.vn#td(id*=ExBanner)
 dantri.com.vn#div(id*=div_adv_top_banner)
 ddth.com#td(width=130)(bgcolor=F5F5F5)
+ddth.com##div[align="center"] > iframe
 diendantinhoc.vn#td(width=160)(valign=top)
 ledmobile.net#table(class=tborder)(width=100%)(cellspacing=1)(color=Red)
 giangho.tv#div(id=topbar)
