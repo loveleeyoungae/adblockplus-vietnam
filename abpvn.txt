@@ -191,6 +191,7 @@ vnexpress.*AdWord
 vnexpress.*/Val.js
 vnnavi.com*/logo
 vnphoto.net/*/fullsize/*.gif
+vnpower.org/adv/*
 vtc.vn/Images$match-case
 vtc.vn/newsimage/adv/
 vtv.vn/HTML*adv
