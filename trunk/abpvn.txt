@@ -11,7 +11,7 @@
 .net.vn/*adv
 .org.vn/*adv
 .com.vn/ad/
-.vn*/banner/*
+.vn*/banner/*$domain=~vietteltelecom.vn|~tuoitre.com.vn
 .vn/*/iframe/
 .vn/*/info/ad/
 .vn/*upload/ads
@@ -19,7 +19,6 @@
 .vn/anhqc/
 .vn/common/*/ads
 .vn/Image.aspx/image=
-.vn/images/banner*.swf
 .vn/Upload*/adv
 .com/upload/adv/
 .adcde.com
@@ -50,13 +49,14 @@ galaxy.swf
 /banners.js|
 /bntraodoi/*
 /data/adv/*
+/data/banner/*
 eblogtemplates/adstheme/
 /ej_banners/*
 /ejbanners/*
 /FA-Ads/*
 /FlashAd.
 /forum/banner/*
-//images/banner/*
+/images/banner*
 /ima_adv/*
 /imagehosting/*
 /images_ad/*
@@ -99,7 +99,6 @@ http://qctn.
 7giay.com/
 admicro.
 aha.vn/ad/
-asianshowbiz.net/data/banner/
 bacsi.com/data/*banner
 bacsi.com/data/flash/
 batdongsan.com.vn/banners/
@@ -175,7 +174,6 @@ trochoiviet.*/ad/
 truongton.net/forum/clip.swf
 up.coo.vn/
 vaip.org.vn/ad/
-vangvn.com/data/banner/
 vatgia.com/images/$object
 vatgia.com/banners/
 vietboom.com/flash/
@@ -200,7 +198,6 @@ vuvu.com.vn/services/themes/1/
 vuvu.com.vn/services/taitrothongoc/
 woim.net/*/lienket/
 xaluan.com*banner
-xe360.vn/images/banners/
 yeah1.com/*/banner/
 yeuamnhac.*/adv/
 yeuamnhac.*/yan/fullsize/
@@ -210,8 +207,6 @@ zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@24h.com.vn/*.flv
 @@diadiem.com/*/Advertisementdd.js
-@@tuoitre.com.vn/*/banner/
-@@vietteltelecom.vn/common
 #div(id*=boxpopup)
 #DIV(id^=divAd)(id$=t)
 #DIV(id*=divStayTop)
