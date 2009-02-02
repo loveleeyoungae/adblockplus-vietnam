@@ -26,11 +26,12 @@ _AdObjects.js
 Advertising.js
 rotatorDOM.js|
 vatgia.js|
-tamthat.gif
-hoctienganh.gif
-vatgia.gif
+clickphone.swf
 finalstyle.gif
 galaxy.swf
+hoctienganh.gif
+vatgia.gif
+tamthat.gif
 /background_cs.jpg
 /ad_banner.js
 /admedia/*
