@@ -85,7 +85,8 @@ eblogtemplates/adstheme/
 /TTData/Data/*
 /uploads*adv
 /upload_adv/*
-/upload/banner
+upload/banner
+uploads/banner*
 /VAImages/*
 /videoqc/*
 /WaitForAd/*
@@ -119,7 +120,6 @@ dienthoai.com.vn/attachments/
 digipower.*/ddth/
 docbao.vn*/Ad/
 enbac.com/widget
-enbac.com/uploads/
 enbac.com/*rongbay
 ee210/Phamen/Banner*
 elive.vn/images/
