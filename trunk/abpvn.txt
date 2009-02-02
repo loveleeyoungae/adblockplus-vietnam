@@ -11,7 +11,7 @@
 .net.vn/*adv
 .org.vn/*adv
 .com.vn/ad/
-.vn*/banner/*$domain=~vietteltelecom.vn|~tuoitre.com.vn
+.vn*/banner/*$domain=~tuoitre.com.vn
 .vn/*/iframe/
 .vn/*/info/ad/
 .vn/*upload/ads
@@ -208,6 +208,7 @@ zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@24h.com.vn/*.flv
 @@diadiem.com/*/Advertisementdd.js
+@@vietteltelecom.vn/common/
 #div(id*=boxpopup)
 #DIV(id^=divAd)(id$=t)
 #DIV(id*=divStayTop)
