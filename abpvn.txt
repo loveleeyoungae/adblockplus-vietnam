@@ -30,6 +30,7 @@ clickphone.swf
 finalstyle.gif
 galaxy.swf
 hoctienganh.gif
+laptopshop.gif
 vatgia.gif
 tamthat.gif
 /background_cs.jpg
