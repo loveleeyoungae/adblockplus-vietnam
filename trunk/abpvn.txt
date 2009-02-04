@@ -98,6 +98,7 @@ http://qctn.
 !vn-seo
 74.55.119.194/~s3icom/images/
 123mua.com*/res/v2/img/
+123mua.com.vn$third-party
 5giay.vn/igo/$image,object
 7giay.com/
 admicro.
