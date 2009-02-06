@@ -52,6 +52,7 @@ tamthat.gif
 /bntraodoi/*
 /data/adv/*
 /data/banner/*
+/chodientu.ttol.js
 eblogtemplates/adstheme/
 /ej_banners/*
 /ejbanners/*
@@ -179,10 +180,12 @@ up.coo.vn/
 vaip.org.vn/ad/
 vatgia.com/images/$object
 vatgia.com/banners/
+vietad.vn/
 vietboom.com/flash/
 vietfriendly.*/logo
 vietgiaitri.*/ad/
 vietguys.biz/images/resources-$image
+vietnamnet.*/banner*.swf
 vietnamwebsite.*/logo
 vietphotoshop.com/ad/
 vietyo.com/yomedia/
