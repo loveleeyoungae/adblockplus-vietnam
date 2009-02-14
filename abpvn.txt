@@ -85,6 +85,7 @@ eblogtemplates/adstheme/
 /quangcao
 /quan-ly-anh-quang-cao
 /show_ad.js
+/smartads.js
 /TTData/Data/*
 /uploads*adv
 /upload_adv/*
