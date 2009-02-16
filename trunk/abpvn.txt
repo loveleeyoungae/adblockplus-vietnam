@@ -178,6 +178,7 @@ toquoc.into.vn/*_ad
 trangtinvietnam.com/upload*logo
 trochoiviet.*/ad/
 truongton.net/forum/clip.swf
+tuvantinhoc1088.com/images/*.gif
 up.coo.vn/
 vaip.org.vn/ad/
 vatgia.com/images/$object
