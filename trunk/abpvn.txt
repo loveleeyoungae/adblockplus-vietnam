@@ -49,6 +49,7 @@ tamthat.gif
 /bannerfiles/*
 /banner.js|
 /banners.js|
+/banner-exchange/*
 /bntraodoi/*
 /data/adv/*
 /data/banner/*
