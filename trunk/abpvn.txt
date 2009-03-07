@@ -53,6 +53,7 @@ tamthat.gif
 /bntraodoi/*
 /data/adv/*
 /data/banner/*
+/DefaultAds/*
 /chodientu.ttol.js
 eblogtemplates/adstheme/
 /ej_banners/*
