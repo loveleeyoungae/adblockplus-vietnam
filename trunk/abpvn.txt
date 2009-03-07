@@ -58,6 +58,7 @@ tamthat.gif
 eblogtemplates/adstheme/
 /ej_banners/*
 /ejbanners/*
+/clients/exchange/hosted/*
 /FA-Ads/*
 /FlashAd.
 /forum/banner/*
@@ -167,7 +168,6 @@ socnhi.com/*/banner/
 softvnn.com/images/$image,object
 thanhnien.*/Media/Pictures/
 thegioioto.com.vn/Autos/Images/home/
-thongtincongnghe.com/clients/exchange/hosted/
 thongtinnhatban.net/ac/
 thongtinlaptop.com/img/
 tienganh.com.vn/anh/
