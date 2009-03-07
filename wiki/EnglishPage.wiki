@@ -9,7 +9,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 ==More Info==
   * *Adblock Plus*: an extension for Firefox, helps blocking advertisements on websites. *Moreover, the blocked ads are not downloaded, and that makes pages load faster for dial-up users in Vietnam.* Download at https://addons.mozilla.org/en-US/firefox/addon/1865
 
-  * *!EasyList, !EasyElement*: global filters lists for Adblock Plus. *Adblock Pro for Internet Explorer (IE) uses a ripped version of these filters lists* [[http://adblockplus.org/forum/viewtopic.php?t=3062&sid=84f60f42e73c6fda49f512f138558a8a 1]]. If you haven't subsribed to the Easy lists yet, just get into here http://easylist.adblockplus.org, and add them.
+  * *!EasyList, !EasyElement*: global filters lists for Adblock Plus. *Adblock Pro for Internet Explorer (IE) uses a ripped version of these filters lists* [http://adblockplus.org/forum/viewtopic.php?t=3062&sid=84f60f42e73c6fda49f512f138558a8a [1]]. If you haven't subsribed to the Easy lists yet, just get into here http://easylist.adblockplus.org, and add them.
 
   * You only need to subscribe to a list once, then Adblock Plus will auto update it when there are new changes later. You won't have to manually add your own filters.
 
@@ -17,13 +17,13 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 
 == Quick Guide ==
 
-*Note*: <font color='red'>You should have Adblock Plus 1.0.1+ installed in order to receive updates</font>.
+*Note*: <font color='red'>*You should have Adblock Plus 1.0.1+ installed in order to receive updates*</font>.
 
 *Method 1*: Click on this image to go to Adblock Plus's subscriptions page, then click on the link as shown below:
 
 [http://adblockplus.org/en/subscriptions http://img7.imageshack.us/img7/8308/abpvnweb.png]
 
-*Method 2* Just copy and paste this code into your browser location bar. Choose Viet Nam list from the pop-up dialog. (_This dialog is also shown up when you run Adblock Plus on the first time_).<br/>
+*Method 2*: Just copy and paste this code into your browser location bar. Choose Viet Nam list from the pop-up dialog. (_This dialog is also shown up when you run Adblock Plus for the first time_).<br/>
 *chrome://adblockplus/content/tip_subscriptions.xul*
 
 [http://img23.imageshack.us/img23/3116/abpvn.png]
