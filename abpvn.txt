@@ -166,7 +166,6 @@ socnhi.com/*/banner/
 softvnn.com/images/$image,object
 thanhnien.*/Media/Pictures/
 thegioioto.com.vn/Autos/Images/home/
-thodia.vn/FlashFiles/
 thongtincongnghe.com/clients/exchange/hosted/
 thongtinnhatban.net/ac/
 thongtinlaptop.com/img/
@@ -217,7 +216,6 @@ zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@24h.com.vn/*.flv
-@@diadiem.com/*/Advertisementdd.js
 @@vietteltelecom.vn/common/
 #div(id*=boxpopup)
 #DIV(id^=divAd)(id$=t)
