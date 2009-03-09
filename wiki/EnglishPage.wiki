@@ -24,7 +24,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 *Method 2*: Just copy and paste this code into your browser location bar. Choose Viet Nam list from the pop-up dialog. (_This dialog is also shown up when you run Adblock Plus for the first time_).<br/>
 *chrome://adblockplus/content/tip_subscriptions.xul*
 
-[http://img23.imageshack.us/img23/3116/abpvn.png]
+[http://img401.imageshack.us/img401/3116/abpvn.png]
 
 *CONGRATULATIONS*! No more annoying advertisements! :)
 
