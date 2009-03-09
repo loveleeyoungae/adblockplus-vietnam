@@ -26,8 +26,7 @@ An Adblock Plus filters list which is supplemental to !EasyList and !EasyElement
 
 [http://img23.imageshack.us/img23/3116/abpvn.png]
 
-*CONGRATULATIONS*! No more annoying advertisements!
-You may want to check the filters on some Vietnam websites: [http://www.vietnamnet.vn VietnamNet], [http://www.tuoitre.com.vn TuoiTre], [http://www.thanhnien.com.vn ThanhNien]... or [http://www.thanhtra.com.vn Thanh Tra Chính Phủ], [http://www.24h.com.vn 24H], [http://www.vnexpress.net VNExpress], [http://www.dantri.com.vn DanTri] :D
+*CONGRATULATIONS*! No more annoying advertisements! :)
 
 .
 
