@@ -153,7 +153,6 @@ ngoisao.*/Val.js
 nhacso.net*doitac
 nhavui.com*upload/slide/
 neu.edu.*/icon_
-onthi.com/images/banner/*.gif
 otosaigon.com/*/showbanners.js
 photo.vn/upload*logo
 phenom.vn/upload/$image
@@ -240,6 +239,7 @@ diendantinhoc.vn#td(width=160)(valign=top)
 ledmobile.net#table(class=tborder)(width=100%)(cellspacing=1)(color=Red)
 giangho.tv#div(id=topbar)
 google.com.vn#table(id=mbEnd)(width=30%)
+google.com.vn#table(id=adt)
 google.com.vn#div(id^=tpa)
 google.com.vn#div(id^=tads)
 phununet.com#div(style*=height: 219px;)
