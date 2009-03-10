@@ -108,6 +108,7 @@ http://qctn.
 5giay.vn/igo/$image,object
 7giay.com/
 admicro.
+adnet.vn
 aha.vn/ad/
 bacsi.com/data/*banner
 bacsi.com/data/flash/
