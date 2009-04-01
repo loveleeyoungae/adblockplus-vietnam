@@ -63,7 +63,8 @@ eblogtemplates/adstheme/
 /FlashAd.
 /forum/banner/*
 /get_trackingcode.php?gc=
-/images/banner*
+/images/banner*$object
+/images/banner*.gif
 /ima_adv/*
 /imagehosting/*
 /images_ad/*
