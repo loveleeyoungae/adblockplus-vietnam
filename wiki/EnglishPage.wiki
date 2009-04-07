@@ -4,6 +4,8 @@
 = Adblock Plus - Vietnam List =
 An Adblock Plus filters list which is supplemental to !EasyList to help block advertisements on websites from Vietnam. *Ads were yesterday... in Vietnam!* 
 
+  * 7/4/2009: [http://adblockplus.org/blog/sad-news Rick752 - maintainer of the EasyList - passed away on 4/4]. That's sad. Rick and others helped me a lot to optimize my filters list. I'd like to give my condolences to his family, friends and others people involved in Adblock Plus project.
+
 ==More Info==
   * *Adblock Plus*: an extension for Firefox, helps blocking advertisements on websites. *Moreover, the blocked ads are not downloaded, and that makes pages load faster for dial-up users in Vietnam.* Download at https://addons.mozilla.org/en-US/firefox/addon/1865
 
