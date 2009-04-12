@@ -13,7 +13,7 @@ An Adblock Plus filters list which is supplemental to !EasyList to help block ad
 
   * You only need to subscribe to a subscription list once, then Adblock Plus will auto update it when there are new changes later. You won't have to manually add your own filters.
 
-  * BKIS is blocked to prevent some suspicious activities, reported in [http://vozforums.com/showthread.php?t=201491 1], [http://vozforums.com/showthread.php?t=155275 2], [http://vozforums.com/showthread.php?t=198579 3], [http://ddth.com/showthread.php?t=238660 4], [http://ddth.com/showthread.php?t=235864 5]. Please remember, our list is not even compared to !EasyList, it's just a personal list, and as !IceDogg said "ABP is about you choosing what you don't want to see, not a government or agency."
+  * BKIS is blocked to prevent some suspicious activities, reported in [http://vozforums.com/showthread.php?t=201491 1], [http://vozforums.com/showthread.php?t=155275 2], [http://vozforums.com/showthread.php?t=198579 3], [http://ddth.com/showthread.php?t=238660 4], [http://ddth.com/showthread.php?t=235864 5]. Please remember, our list is not even compared to !EasyList, it's just a personal list, *not an official list from the Vietnam government*! "ABP is about you choosing what you don't want to see, not a government or agency." - said IceDogg. And of course, as Wladimir advised, you should disable ABP whenever you get to commercial sites. 
 
   * If there are false positives, or if you have filters suggestions, just notify us. When we update the list, not only you but everyone will benefit from it :)
 
