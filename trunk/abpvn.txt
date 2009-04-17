@@ -2,7 +2,7 @@
 ! Bộ lọc Adblock Plus cho Việt Nam. Sử dụng với EasyList
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
-! 08/03/2009 16:00 (DD/MM/YYYY)
+! 17/04/2009 18:00 (DD/MM/YYYY)
 !Expires: 1
 .com/adv.js
 .com/ImgQC/
@@ -108,7 +108,7 @@ http://qctn.
 123mua.com.vn$third-party
 5giay.vn/igo/$image,object
 7giay.com/
-admicro.
+admicro.vn$third-party
 adnet.vn
 aha.vn/ad/
 bacsi.com/data/*banner
@@ -129,8 +129,7 @@ dethi.com/lienket/
 dienthoai.com.vn/attachments/
 digipower.*/ddth/
 docbao.vn*/Ad/
-enbac.com/widget
-enbac.com/*rongbay
+enbac.com$third-party
 ee210/Phamen/Banner*
 elive.vn/images/
 eva.vn/js/eva.js
