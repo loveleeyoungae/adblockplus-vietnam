@@ -217,6 +217,7 @@ zda.vn/*/fullsize/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@24h.com.vn/*.flv
+@@vietnamnet.vn/chuyenmuc/quangcao*thethao/$stylesheet,script
 @@vietteltelecom.vn/common/
 #div(id*=boxpopup)
 #DIV(id^=divAd)(id$=t)
