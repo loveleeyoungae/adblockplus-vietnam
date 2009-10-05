@@ -67,7 +67,7 @@ eblogtemplates/adstheme/
 /images/banner*$object
 /images/banner*.gif
 /ima_adv/*
-/imagehosting/*
+/imagehosting/*$domain=~tinhte.com
 /images_ad/*
 /images_adv
 /images/adv/*
