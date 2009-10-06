@@ -133,6 +133,7 @@ docbao.vn*/Ad/
 enbac.com$third-party
 ee210/Phamen/Banner*
 elive.vn/images/
+equangcao.com/
 eva.vn/js/eva.js
 gamevui.*/_QC/
 gate.vn/adsvc/
