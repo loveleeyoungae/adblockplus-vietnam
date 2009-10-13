@@ -99,8 +99,9 @@ uploads/banner*
 /VAImages/*
 /videoqc/*
 /WaitForAd/*
-http://tq1.srv.
-http://qctn.
+|http://tq1.srv.
+|http://qc.
+|http://qctn.
 !ola.vn
 222.255.121.164/config.xml
 !vn-seo
