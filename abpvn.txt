@@ -165,6 +165,7 @@ quantri.com.vn/*/affiliates/
 rongbay.*/widget
 rongbay.com/banner/
 sggp.org*/Others/
+sgtt.com.vn/HTMS/Ads/
 saigon*.vn/uploadfiles/
 sannhac.com/*/mkt/
 socbay.com/sb_flash/*.html
