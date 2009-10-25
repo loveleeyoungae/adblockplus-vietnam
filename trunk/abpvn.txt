@@ -2,7 +2,7 @@
 ! Bộ lọc Adblock Plus cho Việt Nam. Sử dụng với EasyList
 ! http://adblockplus-vietnam.googlecode.com
 ! Adblock Plus filters list for Vietnam. For use with EasyList
-! 15/10/2009 23:50 (DD/MM/YYYY)
+! 25/10/2009 15:35 (DD/MM/YYYY)
 !Expires: 1
 .com/adv.js
 .com/ImgQC/
@@ -67,7 +67,7 @@ eblogtemplates/adstheme/
 /images/banner*$object
 /images/banner*.gif
 /ima_adv/*
-/imagehosting/*$domain=~tinhte.com
+/imagehosting/*$domain=~tinhte.com|~truongton.net
 /images_ad/*
 /images_adv
 /images/adv/*
@@ -140,10 +140,10 @@ eva.vn/js/eva.js
 gamevui.*/_QC/
 gate.vn/adsvc/
 hieuhoc.com/Images/Events/
-hoidap.vn/truongton.js
 htv.com.*/tintuc/2005/*.gif
 ichinews.*/ad/
 igame.vn/bn/
+image.truongton.net
 img.ad.zing.vn/
 innity-asia.
 .innity.
@@ -267,7 +267,6 @@ tin247.com#DIV(class=detail_news_product_vg)
 tin247.com#div(class=raovat_vip)
 tin247.com#DIV(class=web_raovat_size)
 tinhte.com##td[bgcolor="#F8F8F8"]>table
-truongton.net#table(class*=partner_table)
 vnexpress.net#div(class^=content-right)(class$=fl)
 vnexpress.net#div(class*=CPMS)
 vnexpress.net#DIV(class=fl)(style=width: 175px; height: 240px;)
