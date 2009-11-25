@@ -137,6 +137,8 @@ ee210/Phamen/Banner*
 elive.vn/images/
 equangcao.com/
 eva.vn/js/eva.js
+gamevn.com/dacky/GameVN_728x98.jpg
+gamevn.com/bnf/200911102123100.bnf.swf
 gamevui.*/_QC/
 gate.vn/adsvc/
 hieuhoc.com/Images/Events/
