@@ -89,7 +89,6 @@ eblogtemplates/adstheme/
 /quancao
 /quangcao
 /quan-ly-anh-quang-cao
-/show_ad.js
 /smartads.js
 /TTData/Data/*
 /uploads*adv
@@ -138,6 +137,7 @@ elive.vn/images/
 equangcao.com/
 eva.vn/js/eva.js
 gamevn.com/dacky/GameVN_728x98.jpg
+gamevn.com/bnf/
 gamevui.*/_QC/
 gate.vn/adsvc/
 hieuhoc.com/Images/Events/
