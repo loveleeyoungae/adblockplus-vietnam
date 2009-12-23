@@ -223,6 +223,7 @@ yeuamnhac.*/adv/
 yeuamnhac.*/yan/fullsize/
 yeuamnhac.com/*728*.swf
 zda.vn/*/fullsize/
+mp3.zing.vn/flash/
 zing.vn/*/SearchSimple/
 @@5giay.vn/igo/images/
 @@24h.com.vn/*.flv
