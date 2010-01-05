@@ -109,6 +109,7 @@ uploads/banner*
 123mua.com*/res/v2/img/
 123mua.com.vn$third-party
 5giay.vn/igo/$image,object
+s6.60s.com.vn/script/sharingcentre.js
 7giay.com/
 admicro.vn$third-party
 adnet.vn
