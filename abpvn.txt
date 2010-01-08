@@ -109,7 +109,6 @@ uploads/banner*
 123mua.com*/res/v2/img/
 123mua.com.vn$third-party
 5giay.vn/igo/$image,object
-s6.60s.com.vn/script/sharingcentre.js
 7giay.com/
 admicro.vn$third-party
 adnet.vn
@@ -168,10 +167,12 @@ VN-News/ads/
 quantri.com.vn/*/affiliates/
 rongbay.*/widget
 rongbay.com/banner/
-sggp.org*/Others/
-sgtt.com.vn/HTMS/Ads/
 saigon*.vn/uploadfiles/
 sannhac.com/*/mkt/
+sggp.org*/Others/
+sgtt.com.vn/HTMS/Ads/
+sharingcentre.js
+sharingcentre.info/popunder1_onlick_2_pop.js
 socbay.com/sb_flash/*.html
 socnhi.com/*/banner/
 softvnn.com/images/$image,object
