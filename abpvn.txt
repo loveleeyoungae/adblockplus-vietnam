@@ -217,6 +217,7 @@ vtv.vn/HTML*adv
 vuvu.com.vn/*/ma1
 vuvu.com.vn/services/themes/1/
 vuvu.com.vn/services/taitrothongoc/
+webketoan.vn/_userfiles/banners/
 woim.net/*/lienket/
 xaluan.com*banner
 yeah1.com/*/banner/
