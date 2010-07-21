@@ -108,6 +108,7 @@ uploads/banner*
 74.55.119.194/~s3icom/images/
 123mua.com*/res/v2/img/
 123mua.com.vn$third-party
+24h.com.vn/js/24h.js
 5giay.vn/igo/$image,object
 7giay.com/
 admicro.vn$third-party
