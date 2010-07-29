@@ -176,7 +176,7 @@ sharingcentre.js
 sharingcentre.info/popunder1_onlick_2_pop.js
 socbay.com/sb_flash/*.html
 socnhi.com/*/banner/
-softvnn.com/images/$image,object
+softvnn.com/images/$object
 thanhnien.*/Media/Pictures/
 thegioioto.com.vn/Autos/Images/home/
 thongtinnhatban.net/ac/
