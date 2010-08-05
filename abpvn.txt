@@ -171,6 +171,7 @@ rongbay.com/banner/
 saigon*.vn/uploadfiles/
 sannhac.com/*/mkt/
 sggp.org*/Others/
+sgtt.com.vn/html
 sgtt.vn/html
 sharingcentre.js
 sharingcentre.info/popunder1_onlick_2_pop.js
