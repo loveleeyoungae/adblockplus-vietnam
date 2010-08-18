@@ -162,6 +162,7 @@ neu.edu.*/icon_
 otosaigon.com/*/showbanners.js
 photo.vn/upload*logo
 phenom.vn/upload/$image
+polyad.net
 !qdc
 conduit-banners.com
 VN-News/ads/
